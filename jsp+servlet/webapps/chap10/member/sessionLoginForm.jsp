@@ -8,11 +8,11 @@
 </title>
 </head>
 <body>
-<form action="<%= request.getContextPath() %>/member/login.jsp" method="post">
+<form action="<%= request.getContextPath() %>/member/sessionLogin.jsp" method="post">
 <label for="">아이디</label>
-<input type="text" name="id" size="10">
-<label for="">비밀번호</label>
-<input type="text" name="pw" size="10">
+<input type="text" name="id" size=10>
+<label for="">패스워드</label>
+<input type="text" name="pw" size=10>
 <input type="submit" value="로그인">
 </form>
 </body>

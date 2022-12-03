@@ -21,6 +21,5 @@
 			</c:otherwise>
 		</c:choose>
 	</ul>
-	
 </body>
 </html>

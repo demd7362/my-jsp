@@ -7,6 +7,7 @@
 </head>
 <body>
 <%-- 현재 시간은 <%= CURRENT_TIME %> 입니다. --%>
-<!-- 왜 동작하지 않는건지 모르겠다. 경로가 잘못된건가 -->
+<a href="chap07/common/variable.jspf">이동</a>
+<!-- 왜 에러지? 경로가 잘못된건가 -->
 </body>
 </html>

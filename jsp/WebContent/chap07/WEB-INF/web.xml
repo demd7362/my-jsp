@@ -7,11 +7,11 @@
 
 	<jsp-config>
         <jsp-property-group>
-            <url-pattern>view/*</url-pattern> 
+            <url-pattern>/jsp/chap07/view/*</url-pattern> 
             <!-- view 폴더에 있는 모든 파일에 적용한다. -->
-            <include-prelude>common/variable.jspf</include-prelude>
+            <include-prelude>/jsp/chap07/common/variable.jspf</include-prelude>
             <!-- 항상 넣어줄 코드(앞) 지정 -->
-            <include-coda>common/footer.jspf</include-coda>
+            <include-coda>/jsp/chap07/common/footer.jspf</include-coda>
             <!-- 항상 넣어줄 코드(뒤) 지정 -->
         </jsp-property-group>
     </jsp-config>

@@ -1,0 +1,5 @@
+#Sat Dec 03 20:18:17 KST 2022
+\!/=
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands>\r\n<keyBinding commandId\="org.eclipse.jdt.ui.edit.text.java.generate.tostring" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+T"/>\r\n<keyBinding commandId\="org.eclipse.jdt.ui.edit.text.java.override.methods" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+D"/>\r\n<keyBinding commandId\="org.eclipse.jdt.ui.edit.text.java.create.getter.setter" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+G"/>\r\n<keyBinding commandId\="org.eclipse.jdt.ui.edit.text.java.generate.constructor.using.fields" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+C"/>\r\n</org.eclipse.ui.commands>
+@org.eclipse.ui.workbench=3.126.0.v20220823-0718
+file_export_version=3.0

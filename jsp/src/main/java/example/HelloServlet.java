@@ -8,7 +8,7 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-@WebServlet(urlPatterns = "/hello")
+@WebServlet(urlPatterns = "/hello",loadOnStartup = 1)// 1번째 순서로 서블릿 로딩
 public class HelloServlet extends HttpServlet{
 
 	@Override
